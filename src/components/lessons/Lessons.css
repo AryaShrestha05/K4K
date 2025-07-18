@@ -1,0 +1,12 @@
+.lesson-card {
+  /* Example: add a subtle transition and shadow */
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.lesson-card:hover {
+  box-shadow: 0 8px 32px rgba(80, 0, 120, 0.12);
+  transform: scale(1.03);
+}
+.lesson-details {
+  /* Example: custom padding or background */
+  background: linear-gradient(90deg, #f0f4ff 0%, #f8f0ff 100%);
+} 
