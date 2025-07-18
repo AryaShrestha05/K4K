@@ -1,6 +1,6 @@
 # Lessons Page – *Koding for Kids (K4K)*
 
-A responsive and interactive **Lessons Page** built using **React**, **JavaScript**, and **Tailwind CSS** for the [Koding for Kids](https://kodingforkids.org) (K4K) platform.
+A responsive and interactive **Lessons Page** built using **React**, **JavaScript**, and **Tailwind CSS** for the [Koding for Kids](https://k4k.netlify.app/) website.
 
 ![Lessons Page Preview](https://github.com/user-attachments/assets/1004f3a7-bfe0-41a6-9259-a387223f6842)
 
