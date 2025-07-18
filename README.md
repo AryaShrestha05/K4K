@@ -1,4 +1,4 @@
-# 📚 Lessons Page – *Koding for Kids (K4K)*
+# Lessons Page – *Koding for Kids (K4K)*
 
 A responsive and interactive **Lessons Page** built using **React**, **JavaScript**, and **Tailwind CSS** for the [Koding for Kids](https://kodingforkids.org) (K4K) platform.
 
